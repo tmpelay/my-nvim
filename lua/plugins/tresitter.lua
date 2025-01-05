@@ -7,6 +7,8 @@ return {
 		ensure_installed = {
 			"lua",
 			"luadoc",
+			"python",
+			"cpp",
 		},
 		highlight = {
 			enable = true,
